@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "68242788e658eee6a2136301"
+  },
+  "Nama_Kendaraan": "Toyota",
+  "Jenis_Kendaraan": "Mobil"
+},
+{
+  "_id": {
+    "$oid": "682427d1e658eee6a2136302"
+  },
+  "Nama_Kendaraan": "HondaBrio",
+  "Jenis_Kendaraan": "Mobil"
+},
+{
+  "_id": {
+    "$oid": "682427ede658eee6a2136303"
+  },
+  "Nama_Kendaraan": "HondaScoopy",
+  "Jenis_Kendaraan": "Motor"
+}]
